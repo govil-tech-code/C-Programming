@@ -1,0 +1,18 @@
+# Compiled C files
+*.exe
+*.out
+*.o
+
+# VS Code
+.vscode/
+
+# Environment files
+.env
+.env.*
+
+# Temporary and log files
+*.tmp
+*.log
+
+# Debug files
+*.dSYM/
